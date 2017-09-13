@@ -33,17 +33,17 @@
 			    100%{transform:rotateX(-15deg) rotateY(360deg);}
 			}
 			.box{				
-		    	width:200px;
-            	height:300px;
-            	position:relative;
-            	margin:auto;
-            	margin-top:150px;
-            	transform-style:preserve-3d;
-            	transform:rotateX(-10deg);
-            	animation: fn 10s;
-            	animation-iteration-count: infinite;
-		    	animation-timing-function: linear;
-		    	position: relative
+		    	     width:200px;
+			     height:300px;
+			     position:relative;
+			     margin:auto;
+		             margin-top:150px;
+			     transform-style:preserve-3d;
+			     transform:rotateX(-10deg);
+			     animation: fn 10s;
+			     animation-iteration-count: infinite;
+			     animation-timing-function: linear;
+			     position: relative
 			}
 			.box:hover{
 				animation-play-state: paused;
